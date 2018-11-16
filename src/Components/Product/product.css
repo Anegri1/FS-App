@@ -1,0 +1,51 @@
+.Products {
+    font-size: 75px;
+    color: white;
+}
+
+.para1 {
+
+    margin-top: 20px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.name {
+    font-family: Pacifico;
+    color: #ffffff;
+    letter-spacing: 5px;
+
+}
+
+.menu {
+    text-align: center;
+    color: white;
+}
+
+.Pic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.Pic2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8%;
+}
+
+.abcd {
+    background-image: url("./weed.jpg");
+    align-content: right;
+    max-width: 100%;
+    height: auto;
+
+}
+
+

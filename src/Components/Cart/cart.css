@@ -1,0 +1,49 @@
+
+.Cart {
+    text-align: center;
+    font-size: 30px;
+}
+
+.seeds {
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.price {
+    margin-top: 20px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.cbd {
+    background-image: url("cbd.jpg");
+    align-content: right;
+}
+
+.oil{
+    width: 450px;
+    border: 5px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+.strains {
+    width: 450px;
+    border: 5px solid green;
+    margin-top: 20px;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.typeofseed {
+    color: white;
+    size: 35px;
+    align-content: left;
+}

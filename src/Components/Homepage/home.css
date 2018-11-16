@@ -1,0 +1,81 @@
+.menu {
+    font-size: 35px;
+    color: white;
+    text-align: right;
+
+
+}
+
+.box1 {
+    background-image:url("wallpaper.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+.title {
+    font-size: 100px;
+    color: white;
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.subscript {
+    font-size: 50px;
+    color: white;
+}
+
+
+
+.box2 {
+    background-image:url("yodaweedcbd.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+    text-space: center;
+    text-align: center;
+}
+
+.pic1 {
+
+
+}
+
+.p1 {
+    font-size: 50px;
+    text-align: center;
+    line-height: 2.0;
+    font-family: 'Lato', serif ;
+
+
+}
+
+.newP {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    font-family: SansSerif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.pic2 {
+
+}
+
+.hempleaf {
+    background-image:url("hempleafdroppingoil.jpg");
+    height: 900px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align: center;
+    float: left;
+    color: white;
+    font-size: 25px;
+}
